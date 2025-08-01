@@ -1,14 +1,10 @@
 ## RJFoods-Food Delivery Application
 ------------------------------
 ## 🌟 Overview
-**RJFoods** is a **food delivery web application** designed to make food ordering simple and convenient.  
-It provides:
-- Easy **user registration & authentication**  
-- **Restaurant menu browsing**  
-- **Cart management** with real-time updates  
-
----
-
+**RJFoods is a food delivery application designed to simplify the process of
+**ordering food from various restaurants. It provides users with a seamless
+experience to browse menus,manage cart items,securely user registration.
+-----------------------------
 ## ✅ Features
 ✔️ **User Authentication & Authorization**  
 ✔️ **Restaurant Menu Management**  
